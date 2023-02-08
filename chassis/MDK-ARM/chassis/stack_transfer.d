@@ -1,0 +1,51 @@
+chassis\stack_transfer.o: ..\Task\stack_transfer.c
+chassis\stack_transfer.o: ..\Task\stack_transfer.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h
+chassis\stack_transfer.o: ../Core/Inc/stm32f7xx_hal_conf.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_def.h
+chassis\stack_transfer.o: ../Drivers/CMSIS/Device/ST/STM32F7xx/Include/stm32f7xx.h
+chassis\stack_transfer.o: ../Drivers/CMSIS/Device/ST/STM32F7xx/Include/stm32f750xx.h
+chassis\stack_transfer.o: ../Drivers/CMSIS/Include/core_cm7.h
+chassis\stack_transfer.o: D:\keil5 core\ARM\ARMCC\Bin\..\include\stdint.h
+chassis\stack_transfer.o: ../Drivers/CMSIS/Include/cmsis_version.h
+chassis\stack_transfer.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+chassis\stack_transfer.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+chassis\stack_transfer.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+chassis\stack_transfer.o: ../Drivers/CMSIS/Device/ST/STM32F7xx/Include/system_stm32f7xx.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+chassis\stack_transfer.o: D:\keil5 core\ARM\ARMCC\Bin\..\include\stddef.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc_ex.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_exti.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_gpio.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_gpio_ex.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_dma.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_dma_ex.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_cortex.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_flash.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_flash_ex.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_i2c.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_i2c_ex.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_pwr.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_pwr_ex.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim_ex.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h
+chassis\stack_transfer.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h
+chassis\stack_transfer.o: ..\Module\lsc.h
+chassis\stack_transfer.o: ../Core/Inc/usart.h
+chassis\stack_transfer.o: ../Core/Inc/main.h
+chassis\stack_transfer.o: D:\keil5 core\ARM\ARMCC\Bin\..\include\stdio.h
+chassis\stack_transfer.o: ..\Task\walk_task.h
+chassis\stack_transfer.o: ..\Module\openmv.h
+chassis\stack_transfer.o: D:\keil5 core\ARM\ARMCC\Bin\..\include\stdbool.h
+chassis\stack_transfer.o: ..\Driver\bsp_delay.h
+chassis\stack_transfer.o: ..\Task\turntable_task.h
+chassis\stack_transfer.o: ..\Driver\turnover_steering.h
+chassis\stack_transfer.o: ../Core/Inc/tim.h
+chassis\stack_transfer.o: ..\Module\motor.h
+chassis\stack_transfer.o: ..\Driver\motor_config.h
+chassis\stack_transfer.o: ..\Driver\motor_pwm.h
+chassis\stack_transfer.o: ..\Driver\time_cnt.h
+chassis\stack_transfer.o: ..\Task\put_task.h
